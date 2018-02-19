@@ -1,0 +1,27 @@
+Lab 4 Rocket Romero
+
+1. To give boxes.html a new background color I went into the .css and created a new line 
+background-color: green;
+
+2. When changing the border as you increase it the border gets thicker. The width and high was set to 100px.
+ I made that 50 and they got smaller.
+
+3. The padding controls the size of the boxes. When it is grater then 100 the boxes are very big and the
+ numbers inside of them can move. The margin is the space between each box. The bigger the number the 
+ bigger the spaces are between the boxes.
+
+4. When you have alot of text that you want to put in a smaller area you can insert a scroll bar in order 
+to fit more on the page and allow the used to scroll through the content. The hidden just has the box and 
+then cuts out everything not in the box
+
+5. When you use the float left attribute they are in order from 1,2,3 on the top of the page. When you 
+use the float right attribute the are in order 3,2,1 across the top of the page.
+
+6. The relative positive of the boxes when you give them all the float left goes in the order 1,2,3 across the top. 
+
+7. In order to make the shape that we were supposed to. I first floated then all left to get 1,2,3. The next step 
+is to use the clear function and if you do clear left on div3 it will clear the content to the left of it leaving you with:
+1,2
+3
+
+8. Nothing changes the default margin is 0px.
