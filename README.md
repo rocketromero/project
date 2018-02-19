@@ -1,4 +1,4 @@
 # project
-Practice with git
+Rocket Romero
 
 Rocket Romero
